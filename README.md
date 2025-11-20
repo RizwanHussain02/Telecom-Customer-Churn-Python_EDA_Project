@@ -35,11 +35,15 @@ This repository contains an exploratory analysis of a telecom customer dataset t
 ---
 
 ## Visualizations included
-- Churn distribution and rate by categorical features (contract type, internet service, payment method).  
-- Distribution plots for numeric features (tenure, monthly charges).  
-- Correlation heatmap to find relationships between numeric variables.  
-- Boxplots to analyze outliers and charge distributions by churn.
-- ![Alt Text]()
+- ![](Plots/chart1.png)
+- ![](Plots/chart2.png)
+- ![](Plots/chart3.png)
+- ![](Plots/chart4.png)
+- ![](Plots/chart5.png)
+- ![](Plots/chart6.png)
+- ![](Plots/chart7.png)
+- ![](Plots/chart8.png)
+- ![](Plots/chart9.png)
 
 ---
 
@@ -94,14 +98,12 @@ jupyter nbconvert --to notebook --execute Telecom_Churn_EDA.ipynb --output execu
 
 ---
 
-## Key Findings (example summary)
+## Key Findings
 - **Shorter tenure** customers churn at a much higher rate — **tenure is a strong predictor**.  
 - **Month-to-month contracts** experience significantly higher churn than one- or two-year contracts.  
 - **Higher monthly charges** are correlated with higher churn, especially when combined with month-to-month contracts.  
 - Customers without bundled services (e.g., no tech support or online security) show increased churn — **service add-ons help retention**.  
 - **PaperlessBilling** has a small but notable association with churn (helpful for targeted communications).
-
-(These are illustrative — run the notebook to generate your exact results and figures.)
 
 ---
 
@@ -126,16 +128,6 @@ jupyter nbconvert --to notebook --execute Telecom_Churn_EDA.ipynb --output execu
 
 ## Contributing & Contact
 - Contributions are welcome — open an issue or create a PR with improvements, bug fixes, or data updates.  
-- If you'd like, I can:
-  - add a requirements.txt based on the notebooks,
-  - commit this README directly to your repository,
-  - or extend the analysis into a churn prediction pipeline.
 
-**Author / Contact:** RizwanHussain377 — feel free to update the contact information here.
+**Author / Contact:** RizwanHussain377
 
----
-
-## License
-Add a license if you want others to reuse the work (e.g., MIT). If you want, I can add a suggested LICENSE file.
-
-Thank you — enjoy exploring the data and turning insights into retention wins!  
