@@ -13,6 +13,7 @@ This repository performs data cleaning, visualization, and analysis to surface t
 ## Table of Contents
 - [Project Overview](#project-overview)  
 - [Dataset](#dataset)
+- [Tech Stack]
 - [Visualizations]
 - [What I analyzed](#what-i-analyzed)  
 - [How to run this project locally](#how-to-run-this-project-locally)  
@@ -33,6 +34,19 @@ This repository contains an exploratory analysis of a telecom customer dataset t
 - **Note:** If the dataset is not yet in the repo, place it in a `data/` folder and update the notebook path accordingly.
 
 ---
+
+# Tech Stack:
+
+Language: Python 🐍
+
+Environment: Jupyter Notebook 📓
+
+Libraries:
+
+Pandas 🗃️ (data manipulation)
+Matplotlib 📊 (visualization)
+Seaborn 🎨 (statistical visualization)
+
 
 ## Visualizations included
 - ![](Plots/chart1.png)
