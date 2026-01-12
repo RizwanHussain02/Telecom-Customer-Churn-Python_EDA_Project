@@ -1,6 +1,6 @@
 # Telecom Customer Churn — EDA Project
 
-**Exploratory Data Analysis (EDA)** project investigating customer churn in a telecom company.  
+**Exploratory-Data-Analysis (EDA)** project investigating customer churn in a telecom company.  
 This repository performs data cleaning, visualization, and analysis to surface the key drivers of churn and provide actionable insights to improve customer retention.
 
 ## 🚀 Highlights
